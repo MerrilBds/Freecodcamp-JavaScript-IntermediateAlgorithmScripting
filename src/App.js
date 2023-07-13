@@ -14,7 +14,7 @@ function App() {
         <li> <a href="#">PARLOPHONIE</a></li>
         <li> <a href="#">CHASSIS</a></li>
       </ul>
-      <a href="#" class="btn">Contacter Nous</a>
+      <a href="#" class="btn">Contacté Nous</a>
     </header>
   );
 }
